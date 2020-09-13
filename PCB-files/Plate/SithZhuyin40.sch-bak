@@ -1,0 +1,1008 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_Push SW1
+U 1 1 5F48922E
+P 4500 1500
+F 0 "SW1" H 4500 1785 50  0000 C CNN
+F 1 "SW_Push" H 4500 1694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 4500 1700 50  0001 C CNN
+F 3 "~" H 4500 1700 50  0001 C CNN
+	1    4500 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4300 1550 4300 1500
+$Comp
+L Switch:SW_Push SW2
+U 1 1 5F48B7C1
+P 5500 1500
+F 0 "SW2" H 5500 1785 50  0000 C CNN
+F 1 "SW_Push" H 5500 1694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 5500 1700 50  0001 C CNN
+F 3 "~" H 5500 1700 50  0001 C CNN
+	1    5500 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 1550 5300 1500
+$Comp
+L Switch:SW_Push SW3
+U 1 1 5F48DECA
+P 6500 1500
+F 0 "SW3" H 6500 1785 50  0000 C CNN
+F 1 "SW_Push" H 6500 1694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 6500 1700 50  0001 C CNN
+F 3 "~" H 6500 1700 50  0001 C CNN
+	1    6500 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 1550 6300 1500
+$Comp
+L Switch:SW_Push SW4
+U 1 1 5F48ED29
+P 7500 1500
+F 0 "SW4" H 7500 1785 50  0000 C CNN
+F 1 "SW_Push" H 7500 1694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 7500 1700 50  0001 C CNN
+F 3 "~" H 7500 1700 50  0001 C CNN
+	1    7500 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7300 1550 7300 1500
+$Comp
+L Switch:SW_Push SW5
+U 1 1 5F48F9F4
+P 8500 1500
+F 0 "SW5" H 8500 1785 50  0000 C CNN
+F 1 "SW_Push" H 8500 1694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 8500 1700 50  0001 C CNN
+F 3 "~" H 8500 1700 50  0001 C CNN
+	1    8500 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8300 1550 8300 1500
+$Comp
+L Switch:SW_Push SW6
+U 1 1 5F4908A5
+P 9500 1500
+F 0 "SW6" H 9500 1785 50  0000 C CNN
+F 1 "SW_Push" H 9500 1694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 9500 1700 50  0001 C CNN
+F 3 "~" H 9500 1700 50  0001 C CNN
+	1    9500 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 1550 9300 1500
+$Comp
+L Switch:SW_Push SW7
+U 1 1 5F4913C6
+P 10500 1500
+F 0 "SW7" H 10500 1785 50  0000 C CNN
+F 1 "SW_Push" H 10500 1694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 10500 1700 50  0001 C CNN
+F 3 "~" H 10500 1700 50  0001 C CNN
+	1    10500 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10300 1550 10300 1500
+$Comp
+L Switch:SW_Push SW8
+U 1 1 5F491FD5
+P 11500 1500
+F 0 "SW8" H 11500 1785 50  0000 C CNN
+F 1 "SW_Push" H 11500 1694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 11500 1700 50  0001 C CNN
+F 3 "~" H 11500 1700 50  0001 C CNN
+	1    11500 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11300 1550 11300 1500
+$Comp
+L Switch:SW_Push SW9
+U 1 1 5F493636
+P 12500 1500
+F 0 "SW9" H 12500 1785 50  0000 C CNN
+F 1 "SW_Push" H 12500 1694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 12500 1700 50  0001 C CNN
+F 3 "~" H 12500 1700 50  0001 C CNN
+	1    12500 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12300 1550 12300 1500
+$Comp
+L Switch:SW_Push SW10
+U 1 1 5F4944CF
+P 13500 1500
+F 0 "SW10" H 13500 1785 50  0000 C CNN
+F 1 "SW_Push" H 13500 1694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 13500 1700 50  0001 C CNN
+F 3 "~" H 13500 1700 50  0001 C CNN
+	1    13500 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	13300 1550 13300 1500
+$Comp
+L Switch:SW_Push SW11
+U 1 1 5F49515C
+P 14500 1500
+F 0 "SW11" H 14500 1785 50  0000 C CNN
+F 1 "SW_Push" H 14500 1694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 14500 1700 50  0001 C CNN
+F 3 "~" H 14500 1700 50  0001 C CNN
+	1    14500 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14300 1550 14300 1500
+$Comp
+L Switch:SW_Push SW12
+U 1 1 5F495C4B
+P 15500 1500
+F 0 "SW12" H 15500 1785 50  0000 C CNN
+F 1 "SW_Push" H 15500 1694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 15500 1700 50  0001 C CNN
+F 3 "~" H 15500 1700 50  0001 C CNN
+	1    15500 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15300 1550 15300 1500
+$Comp
+L Switch:SW_Push SW13
+U 1 1 5F4B97D1
+P 4500 2500
+F 0 "SW13" H 4500 2785 50  0000 C CNN
+F 1 "SW_Push" H 4500 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 4500 2700 50  0001 C CNN
+F 3 "~" H 4500 2700 50  0001 C CNN
+	1    4500 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4300 2550 4300 2500
+$Comp
+L Switch:SW_Push SW14
+U 1 1 5F4B97DE
+P 5500 2500
+F 0 "SW14" H 5500 2785 50  0000 C CNN
+F 1 "SW_Push" H 5500 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 5500 2700 50  0001 C CNN
+F 3 "~" H 5500 2700 50  0001 C CNN
+	1    5500 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 2550 5300 2500
+$Comp
+L Switch:SW_Push SW15
+U 1 1 5F4B97EC
+P 6500 2500
+F 0 "SW15" H 6500 2785 50  0000 C CNN
+F 1 "SW_Push" H 6500 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 6500 2700 50  0001 C CNN
+F 3 "~" H 6500 2700 50  0001 C CNN
+	1    6500 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 2550 6300 2500
+$Comp
+L Switch:SW_Push SW16
+U 1 1 5F4B97FA
+P 7500 2500
+F 0 "SW16" H 7500 2785 50  0000 C CNN
+F 1 "SW_Push" H 7500 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 7500 2700 50  0001 C CNN
+F 3 "~" H 7500 2700 50  0001 C CNN
+	1    7500 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7300 2550 7300 2500
+$Comp
+L Switch:SW_Push SW17
+U 1 1 5F4B9808
+P 8500 2500
+F 0 "SW17" H 8500 2785 50  0000 C CNN
+F 1 "SW_Push" H 8500 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 8500 2700 50  0001 C CNN
+F 3 "~" H 8500 2700 50  0001 C CNN
+	1    8500 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8300 2550 8300 2500
+$Comp
+L Switch:SW_Push SW18
+U 1 1 5F4B9816
+P 9500 2500
+F 0 "SW18" H 9500 2785 50  0000 C CNN
+F 1 "SW_Push" H 9500 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 9500 2700 50  0001 C CNN
+F 3 "~" H 9500 2700 50  0001 C CNN
+	1    9500 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 2550 9300 2500
+$Comp
+L Switch:SW_Push SW19
+U 1 1 5F4B9824
+P 10500 2500
+F 0 "SW19" H 10500 2785 50  0000 C CNN
+F 1 "SW_Push" H 10500 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 10500 2700 50  0001 C CNN
+F 3 "~" H 10500 2700 50  0001 C CNN
+	1    10500 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10300 2550 10300 2500
+$Comp
+L Switch:SW_Push SW20
+U 1 1 5F4B9832
+P 11500 2500
+F 0 "SW20" H 11500 2785 50  0000 C CNN
+F 1 "SW_Push" H 11500 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 11500 2700 50  0001 C CNN
+F 3 "~" H 11500 2700 50  0001 C CNN
+	1    11500 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11300 2550 11300 2500
+$Comp
+L Switch:SW_Push SW21
+U 1 1 5F4B9840
+P 12500 2500
+F 0 "SW21" H 12500 2785 50  0000 C CNN
+F 1 "SW_Push" H 12500 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 12500 2700 50  0001 C CNN
+F 3 "~" H 12500 2700 50  0001 C CNN
+	1    12500 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12300 2550 12300 2500
+$Comp
+L Switch:SW_Push SW22
+U 1 1 5F4B984E
+P 13500 2500
+F 0 "SW22" H 13500 2785 50  0000 C CNN
+F 1 "SW_Push" H 13500 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 13500 2700 50  0001 C CNN
+F 3 "~" H 13500 2700 50  0001 C CNN
+	1    13500 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	13300 2550 13300 2500
+$Comp
+L Switch:SW_Push SW23
+U 1 1 5F4B985C
+P 14500 2500
+F 0 "SW23" H 14500 2785 50  0000 C CNN
+F 1 "SW_Push" H 14500 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 14500 2700 50  0001 C CNN
+F 3 "~" H 14500 2700 50  0001 C CNN
+	1    14500 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14300 2550 14300 2500
+$Comp
+L Switch:SW_Push SW24
+U 1 1 5F4B986A
+P 15500 2500
+F 0 "SW24" H 15500 2785 50  0000 C CNN
+F 1 "SW_Push" H 15500 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 15500 2700 50  0001 C CNN
+F 3 "~" H 15500 2700 50  0001 C CNN
+	1    15500 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15300 2550 15300 2500
+$Comp
+L Switch:SW_Push SW25
+U 1 1 5F4DD5E4
+P 4500 3500
+F 0 "SW25" H 4500 3785 50  0000 C CNN
+F 1 "SW_Push" H 4500 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 4500 3700 50  0001 C CNN
+F 3 "~" H 4500 3700 50  0001 C CNN
+	1    4500 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4300 3550 4300 3500
+$Comp
+L Switch:SW_Push SW26
+U 1 1 5F4DD5F1
+P 5500 3500
+F 0 "SW26" H 5500 3785 50  0000 C CNN
+F 1 "SW_Push" H 5500 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 5500 3700 50  0001 C CNN
+F 3 "~" H 5500 3700 50  0001 C CNN
+	1    5500 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 3550 5300 3500
+$Comp
+L Switch:SW_Push SW27
+U 1 1 5F4DD5FF
+P 6500 3500
+F 0 "SW27" H 6500 3785 50  0000 C CNN
+F 1 "SW_Push" H 6500 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 6500 3700 50  0001 C CNN
+F 3 "~" H 6500 3700 50  0001 C CNN
+	1    6500 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 3550 6300 3500
+$Comp
+L Switch:SW_Push SW28
+U 1 1 5F4DD60D
+P 7500 3500
+F 0 "SW28" H 7500 3785 50  0000 C CNN
+F 1 "SW_Push" H 7500 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 7500 3700 50  0001 C CNN
+F 3 "~" H 7500 3700 50  0001 C CNN
+	1    7500 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7300 3550 7300 3500
+$Comp
+L Switch:SW_Push SW29
+U 1 1 5F4DD61B
+P 8500 3500
+F 0 "SW29" H 8500 3785 50  0000 C CNN
+F 1 "SW_Push" H 8500 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 8500 3700 50  0001 C CNN
+F 3 "~" H 8500 3700 50  0001 C CNN
+	1    8500 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8300 3550 8300 3500
+$Comp
+L Switch:SW_Push SW30
+U 1 1 5F4DD629
+P 9500 3500
+F 0 "SW30" H 9500 3785 50  0000 C CNN
+F 1 "SW_Push" H 9500 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 9500 3700 50  0001 C CNN
+F 3 "~" H 9500 3700 50  0001 C CNN
+	1    9500 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 3550 9300 3500
+$Comp
+L Switch:SW_Push SW31
+U 1 1 5F4DD637
+P 10500 3500
+F 0 "SW31" H 10500 3785 50  0000 C CNN
+F 1 "SW_Push" H 10500 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 10500 3700 50  0001 C CNN
+F 3 "~" H 10500 3700 50  0001 C CNN
+	1    10500 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10300 3550 10300 3500
+$Comp
+L Switch:SW_Push SW32
+U 1 1 5F4DD645
+P 11500 3500
+F 0 "SW32" H 11500 3785 50  0000 C CNN
+F 1 "SW_Push" H 11500 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 11500 3700 50  0001 C CNN
+F 3 "~" H 11500 3700 50  0001 C CNN
+	1    11500 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11300 3550 11300 3500
+$Comp
+L Switch:SW_Push SW33
+U 1 1 5F4DD653
+P 12500 3500
+F 0 "SW33" H 12500 3785 50  0000 C CNN
+F 1 "SW_Push" H 12500 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 12500 3700 50  0001 C CNN
+F 3 "~" H 12500 3700 50  0001 C CNN
+	1    12500 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12300 3550 12300 3500
+$Comp
+L Switch:SW_Push SW34
+U 1 1 5F4DD661
+P 13500 3500
+F 0 "SW34" H 13500 3785 50  0000 C CNN
+F 1 "SW_Push" H 13500 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 13500 3700 50  0001 C CNN
+F 3 "~" H 13500 3700 50  0001 C CNN
+	1    13500 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	13300 3550 13300 3500
+$Comp
+L Switch:SW_Push SW35
+U 1 1 5F4DD66F
+P 14500 3500
+F 0 "SW35" H 14500 3785 50  0000 C CNN
+F 1 "SW_Push" H 14500 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 14500 3700 50  0001 C CNN
+F 3 "~" H 14500 3700 50  0001 C CNN
+	1    14500 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14300 3550 14300 3500
+$Comp
+L Switch:SW_Push SW36
+U 1 1 5F4DD67D
+P 15500 3500
+F 0 "SW36" H 15500 3785 50  0000 C CNN
+F 1 "SW_Push" H 15500 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 15500 3700 50  0001 C CNN
+F 3 "~" H 15500 3700 50  0001 C CNN
+	1    15500 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15300 3550 15300 3500
+$Comp
+L Switch:SW_Push SW37
+U 1 1 5F4DD697
+P 4500 4500
+F 0 "SW37" H 4500 4785 50  0000 C CNN
+F 1 "SW_Push" H 4500 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 4500 4700 50  0001 C CNN
+F 3 "~" H 4500 4700 50  0001 C CNN
+	1    4500 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4300 4550 4300 4500
+$Comp
+L Switch:SW_Push SW38
+U 1 1 5F4DD6A4
+P 5500 4500
+F 0 "SW38" H 5500 4785 50  0000 C CNN
+F 1 "SW_Push" H 5500 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 5500 4700 50  0001 C CNN
+F 3 "~" H 5500 4700 50  0001 C CNN
+	1    5500 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 4550 5300 4500
+$Comp
+L Switch:SW_Push SW39
+U 1 1 5F4DD6B2
+P 6500 4500
+F 0 "SW39" H 6500 4785 50  0000 C CNN
+F 1 "SW_Push" H 6500 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 6500 4700 50  0001 C CNN
+F 3 "~" H 6500 4700 50  0001 C CNN
+	1    6500 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 4550 6300 4500
+$Comp
+L Switch:SW_Push SW40
+U 1 1 5F4DD6C0
+P 7500 4500
+F 0 "SW40" H 7500 4785 50  0000 C CNN
+F 1 "SW_Push" H 7500 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 7500 4700 50  0001 C CNN
+F 3 "~" H 7500 4700 50  0001 C CNN
+	1    7500 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7300 4550 7300 4500
+$Comp
+L Switch:SW_Push SW41
+U 1 1 5F4DD6CE
+P 8500 4500
+F 0 "SW41" H 8500 4785 50  0000 C CNN
+F 1 "SW_Push" H 8500 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 8500 4700 50  0001 C CNN
+F 3 "~" H 8500 4700 50  0001 C CNN
+	1    8500 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8300 4550 8300 4500
+$Comp
+L Switch:SW_Push SW42
+U 1 1 5F4DD6DC
+P 9500 4500
+F 0 "SW42" H 9500 4785 50  0000 C CNN
+F 1 "SW_Push" H 9500 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 9500 4700 50  0001 C CNN
+F 3 "~" H 9500 4700 50  0001 C CNN
+	1    9500 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 4550 9300 4500
+$Comp
+L Switch:SW_Push SW43
+U 1 1 5F4DD6EA
+P 10500 4500
+F 0 "SW43" H 10500 4785 50  0000 C CNN
+F 1 "SW_Push" H 10500 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 10500 4700 50  0001 C CNN
+F 3 "~" H 10500 4700 50  0001 C CNN
+	1    10500 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10300 4550 10300 4500
+$Comp
+L Switch:SW_Push SW44
+U 1 1 5F4DD6F8
+P 11500 4500
+F 0 "SW44" H 11500 4785 50  0000 C CNN
+F 1 "SW_Push" H 11500 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 11500 4700 50  0001 C CNN
+F 3 "~" H 11500 4700 50  0001 C CNN
+	1    11500 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11300 4550 11300 4500
+$Comp
+L Switch:SW_Push SW45
+U 1 1 5F4DD706
+P 12500 4500
+F 0 "SW45" H 12500 4785 50  0000 C CNN
+F 1 "SW_Push" H 12500 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 12500 4700 50  0001 C CNN
+F 3 "~" H 12500 4700 50  0001 C CNN
+	1    12500 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12300 4550 12300 4500
+$Comp
+L Switch:SW_Push SW46
+U 1 1 5F4DD714
+P 13500 4500
+F 0 "SW46" H 13500 4785 50  0000 C CNN
+F 1 "SW_Push" H 13500 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 13500 4700 50  0001 C CNN
+F 3 "~" H 13500 4700 50  0001 C CNN
+	1    13500 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	13300 4550 13300 4500
+$Comp
+L Switch:SW_Push SW47
+U 1 1 5F4DD722
+P 14500 4500
+F 0 "SW47" H 14500 4785 50  0000 C CNN
+F 1 "SW_Push" H 14500 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 14500 4700 50  0001 C CNN
+F 3 "~" H 14500 4700 50  0001 C CNN
+	1    14500 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14300 4550 14300 4500
+$Comp
+L Switch:SW_Push SW48
+U 1 1 5F4DD730
+P 15500 4500
+F 0 "SW48" H 15500 4785 50  0000 C CNN
+F 1 "SW_Push" H 15500 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 15500 4700 50  0001 C CNN
+F 3 "~" H 15500 4700 50  0001 C CNN
+	1    15500 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15300 4550 15300 4500
+$Comp
+L Switch:SW_Push SW49
+U 1 1 5F4F75A2
+P 4500 5500
+F 0 "SW49" H 4500 5785 50  0000 C CNN
+F 1 "SW_Push" H 4500 5694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 4500 5700 50  0001 C CNN
+F 3 "~" H 4500 5700 50  0001 C CNN
+	1    4500 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4300 5550 4300 5500
+$Comp
+L Switch:SW_Push SW50
+U 1 1 5F4F75AF
+P 5500 5500
+F 0 "SW50" H 5500 5785 50  0000 C CNN
+F 1 "SW_Push" H 5500 5694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 5500 5700 50  0001 C CNN
+F 3 "~" H 5500 5700 50  0001 C CNN
+	1    5500 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 5550 5300 5500
+$Comp
+L Switch:SW_Push SW51
+U 1 1 5F4F75BD
+P 6500 5500
+F 0 "SW51" H 6500 5785 50  0000 C CNN
+F 1 "SW_Push" H 6500 5694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 6500 5700 50  0001 C CNN
+F 3 "~" H 6500 5700 50  0001 C CNN
+	1    6500 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 5550 6300 5500
+$Comp
+L Switch:SW_Push SW52
+U 1 1 5F4F75CB
+P 7500 5500
+F 0 "SW52" H 7500 5785 50  0000 C CNN
+F 1 "SW_Push" H 7500 5694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 7500 5700 50  0001 C CNN
+F 3 "~" H 7500 5700 50  0001 C CNN
+	1    7500 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7300 5550 7300 5500
+$Comp
+L Switch:SW_Push SW53
+U 1 1 5F4F75D9
+P 8500 5500
+F 0 "SW53" H 8500 5785 50  0000 C CNN
+F 1 "SW_Push" H 8500 5694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 8500 5700 50  0001 C CNN
+F 3 "~" H 8500 5700 50  0001 C CNN
+	1    8500 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8300 5550 8300 5500
+$Comp
+L Switch:SW_Push SW54
+U 1 1 5F4F75F5
+P 10500 5500
+F 0 "SW54" H 10500 5785 50  0000 C CNN
+F 1 "SW_Push" H 10500 5694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 10500 5700 50  0001 C CNN
+F 3 "~" H 10500 5700 50  0001 C CNN
+	1    10500 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10300 5550 10300 5500
+$Comp
+L Switch:SW_Push SW55
+U 1 1 5F4F7611
+P 12500 5500
+F 0 "SW55" H 12500 5785 50  0000 C CNN
+F 1 "SW_Push" H 12500 5694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 12500 5700 50  0001 C CNN
+F 3 "~" H 12500 5700 50  0001 C CNN
+	1    12500 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12300 5550 12300 5500
+$Comp
+L Switch:SW_Push SW56
+U 1 1 5F4F761F
+P 13500 5500
+F 0 "SW56" H 13500 5785 50  0000 C CNN
+F 1 "SW_Push" H 13500 5694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 13500 5700 50  0001 C CNN
+F 3 "~" H 13500 5700 50  0001 C CNN
+	1    13500 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	13300 5550 13300 5500
+$Comp
+L Switch:SW_Push SW57
+U 1 1 5F4F762D
+P 14500 5500
+F 0 "SW57" H 14500 5785 50  0000 C CNN
+F 1 "SW_Push" H 14500 5694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 14500 5700 50  0001 C CNN
+F 3 "~" H 14500 5700 50  0001 C CNN
+	1    14500 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14300 5550 14300 5500
+$Comp
+L Switch:SW_Push SW58
+U 1 1 5F4F763B
+P 15500 5500
+F 0 "SW58" H 15500 5785 50  0000 C CNN
+F 1 "SW_Push" H 15500 5694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps_Switch_Cutout" H 15500 5700 50  0001 C CNN
+F 3 "~" H 15500 5700 50  0001 C CNN
+	1    15500 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15300 5550 15300 5500
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 5F51D248
+P 1500 1550
+F 0 "H1" H 1600 1599 50  0000 L CNN
+F 1 "MountingHole_Pad" H 1600 1508 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 1500 1550 50  0001 C CNN
+F 3 "~" H 1500 1550 50  0001 C CNN
+	1    1500 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H3
+U 1 1 5F52614D
+P 1500 2150
+F 0 "H3" H 1600 2199 50  0000 L CNN
+F 1 "MountingHole_Pad" H 1600 2108 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 1500 2150 50  0001 C CNN
+F 3 "~" H 1500 2150 50  0001 C CNN
+	1    1500 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 5F526CCB
+P 2550 1550
+F 0 "H2" H 2650 1599 50  0000 L CNN
+F 1 "MountingHole_Pad" H 2650 1508 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 2550 1550 50  0001 C CNN
+F 3 "~" H 2550 1550 50  0001 C CNN
+	1    2550 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H4
+U 1 1 5F526CD1
+P 2550 2150
+F 0 "H4" H 2650 2199 50  0000 L CNN
+F 1 "MountingHole_Pad" H 2650 2108 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 2550 2150 50  0001 C CNN
+F 3 "~" H 2550 2150 50  0001 C CNN
+	1    2550 2150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15300 1550 14300 1550
+Connection ~ 5300 1550
+Wire Wire Line
+	5300 1550 4300 1550
+Connection ~ 6300 1550
+Wire Wire Line
+	6300 1550 5300 1550
+Connection ~ 7300 1550
+Wire Wire Line
+	7300 1550 6300 1550
+Connection ~ 8300 1550
+Wire Wire Line
+	8300 1550 7300 1550
+Connection ~ 9300 1550
+Wire Wire Line
+	9300 1550 8300 1550
+Connection ~ 10300 1550
+Wire Wire Line
+	10300 1550 9300 1550
+Connection ~ 11300 1550
+Wire Wire Line
+	11300 1550 10300 1550
+Connection ~ 12300 1550
+Wire Wire Line
+	12300 1550 11300 1550
+Connection ~ 13300 1550
+Wire Wire Line
+	13300 1550 12300 1550
+Connection ~ 14300 1550
+Wire Wire Line
+	14300 1550 13300 1550
+Wire Wire Line
+	15300 2550 14300 2550
+Connection ~ 5300 2550
+Wire Wire Line
+	5300 2550 4300 2550
+Connection ~ 6300 2550
+Wire Wire Line
+	6300 2550 5300 2550
+Connection ~ 7300 2550
+Wire Wire Line
+	7300 2550 6300 2550
+Connection ~ 8300 2550
+Wire Wire Line
+	8300 2550 7300 2550
+Connection ~ 9300 2550
+Wire Wire Line
+	9300 2550 8300 2550
+Connection ~ 10300 2550
+Wire Wire Line
+	10300 2550 9300 2550
+Connection ~ 11300 2550
+Wire Wire Line
+	11300 2550 10300 2550
+Connection ~ 12300 2550
+Wire Wire Line
+	12300 2550 11300 2550
+Connection ~ 13300 2550
+Wire Wire Line
+	13300 2550 12300 2550
+Connection ~ 14300 2550
+Wire Wire Line
+	14300 2550 13300 2550
+Wire Wire Line
+	15300 3550 14300 3550
+Connection ~ 5300 3550
+Wire Wire Line
+	5300 3550 4300 3550
+Connection ~ 6300 3550
+Wire Wire Line
+	6300 3550 5300 3550
+Connection ~ 7300 3550
+Wire Wire Line
+	7300 3550 6300 3550
+Connection ~ 8300 3550
+Wire Wire Line
+	8300 3550 7300 3550
+Connection ~ 9300 3550
+Wire Wire Line
+	9300 3550 8300 3550
+Connection ~ 10300 3550
+Wire Wire Line
+	10300 3550 9300 3550
+Connection ~ 11300 3550
+Wire Wire Line
+	11300 3550 10300 3550
+Connection ~ 12300 3550
+Wire Wire Line
+	12300 3550 11300 3550
+Connection ~ 13300 3550
+Wire Wire Line
+	13300 3550 12300 3550
+Connection ~ 14300 3550
+Wire Wire Line
+	14300 3550 13300 3550
+Wire Wire Line
+	15300 4550 14300 4550
+Connection ~ 5300 4550
+Wire Wire Line
+	5300 4550 4300 4550
+Connection ~ 6300 4550
+Wire Wire Line
+	6300 4550 5300 4550
+Connection ~ 7300 4550
+Wire Wire Line
+	7300 4550 6300 4550
+Connection ~ 8300 4550
+Wire Wire Line
+	8300 4550 7300 4550
+Connection ~ 9300 4550
+Wire Wire Line
+	9300 4550 8300 4550
+Connection ~ 10300 4550
+Wire Wire Line
+	10300 4550 9300 4550
+Connection ~ 11300 4550
+Wire Wire Line
+	11300 4550 10300 4550
+Connection ~ 12300 4550
+Wire Wire Line
+	12300 4550 11300 4550
+Connection ~ 13300 4550
+Wire Wire Line
+	13300 4550 12300 4550
+Connection ~ 14300 4550
+Wire Wire Line
+	14300 4550 13300 4550
+Wire Wire Line
+	15300 5550 14300 5550
+Connection ~ 5300 5550
+Wire Wire Line
+	5300 5550 4300 5550
+Connection ~ 6300 5550
+Wire Wire Line
+	6300 5550 5300 5550
+Connection ~ 7300 5550
+Wire Wire Line
+	7300 5550 6300 5550
+Connection ~ 8300 5550
+Wire Wire Line
+	8300 5550 7300 5550
+Connection ~ 10300 5550
+Wire Wire Line
+	10300 5550 8300 5550
+Connection ~ 12300 5550
+Wire Wire Line
+	12300 5550 10300 5550
+Connection ~ 13300 5550
+Wire Wire Line
+	13300 5550 12300 5550
+Connection ~ 14300 5550
+Wire Wire Line
+	14300 5550 13300 5550
+$Comp
+L power:GND #PWR?
+U 1 1 5F53C81D
+P 4150 5650
+F 0 "#PWR?" H 4150 5400 50  0001 C CNN
+F 1 "GND" H 4155 5477 50  0000 C CNN
+F 2 "" H 4150 5650 50  0001 C CNN
+F 3 "" H 4150 5650 50  0001 C CNN
+	1    4150 5650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4150 5650 4150 5550
+Wire Wire Line
+	4150 1550 4300 1550
+Connection ~ 4300 1550
+Wire Wire Line
+	4300 2550 4150 2550
+Connection ~ 4300 2550
+Connection ~ 4150 2550
+Wire Wire Line
+	4150 2550 4150 1550
+Wire Wire Line
+	4300 3550 4150 3550
+Connection ~ 4300 3550
+Connection ~ 4150 3550
+Wire Wire Line
+	4150 3550 4150 2550
+Wire Wire Line
+	4300 4550 4150 4550
+Connection ~ 4300 4550
+Connection ~ 4150 4550
+Wire Wire Line
+	4150 4550 4150 3550
+Wire Wire Line
+	4300 5550 4150 5550
+Connection ~ 4300 5550
+Connection ~ 4150 5550
+Wire Wire Line
+	4150 5550 4150 4550
+$EndSCHEMATC
