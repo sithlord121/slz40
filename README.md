@@ -19,3 +19,5 @@ cap size | number
 [QMK toolbox](https://docs.qmk.fm/#/) is required to flash the layout 
 
 The default keymap can be found in the keymap folder.
+
+A hex of the default layout can be found [here](slz40_default.hex) to make sure the keyboard is working.
