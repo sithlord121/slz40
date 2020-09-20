@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [SithLord](https://github.com/yourusername)
+* Keyboard Maintainer: [SithLord](https://github.com/sithlord121/slz40)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
