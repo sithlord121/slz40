@@ -1,6 +1,6 @@
 # slz40
 
-![slz40](imgur.com image replace me!)
+![slz40](https://i.imgur.com/kgXfEBR.jpg)
 
 *A short description of the keyboard/project*
 
