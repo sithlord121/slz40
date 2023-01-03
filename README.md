@@ -9,10 +9,10 @@ You can find the key caps required in the following layout.
 
 cap size | number | R1 | R2 | R3 | R4 | R5
 -------|-------|-------|-------|------|------|-------|
-1u | 47 
-1.25u | 6
-1.5u | 1
-1.75u | 4
+1u | 47 | 11 | 13 |
+1.25u | 6 | 0 | 0 |
+1.5u | 1 | 0 | 0 |
+1.75u | 4 | 0 | 0 |
 
 ![](slz40-layout.svg)
 
