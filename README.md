@@ -7,8 +7,8 @@ The sandwich case takes M2 screws and standoffs.
 
 You can find the key caps required in the following layout.
 
-cap size | number 
--------|-------
+cap size | number | R1 | R2 | R3 | R4 | R5
+-------|-------|-------|-------|------|------|-------|
 1u | 47 
 1.25u | 6
 1.5u | 1
